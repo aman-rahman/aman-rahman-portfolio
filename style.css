@@ -1,0 +1,31 @@
+#container {
+  background: #1C264A;
+  color: white;
+  width: 500px;
+  padding: 15px;
+}
+
+h1 {
+  font-size: 80px;
+}
+
+h2 {
+  background: #2DA89C;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+body {
+  background: url(images/virgin-plane2.jpg);
+  background-position: center;
+	background-attachment: fixed;
+	-webkit-background-size: cover; /* the next 3 lines are "browser prefixes", they are necessary to include for CSS3 techniques */
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+
+}
+
+img {
+  height: 50px;
+}
