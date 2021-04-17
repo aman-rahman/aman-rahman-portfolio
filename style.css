@@ -3,10 +3,13 @@
   color: white;
   width: 500px;
   padding: 15px;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
 h1 {
   font-size: 80px;
+  font-family: 'Source Sans Pro', sans-serif;
+  text-align: center;
 }
 
 h2 {
@@ -28,4 +31,9 @@ body {
 
 img {
   height: 50px;
+}
+
+a {
+  text-decoration: none;
+  color: #2DEBAE;
 }
